@@ -1,4 +1,6 @@
 *.ipynb_checkpoints
 *.ipynb_checkpoints/
-*images/
-images/
+*.png
+*.eps
+old_data_*/
+saved_dataframes/*
