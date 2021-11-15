@@ -4,3 +4,4 @@
 *.eps
 old_data_*/
 saved_dataframes/*
+*.in*
