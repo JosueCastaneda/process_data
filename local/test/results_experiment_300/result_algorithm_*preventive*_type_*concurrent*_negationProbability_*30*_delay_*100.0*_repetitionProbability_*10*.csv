@@ -1,4 +1,0 @@
-inconsistencies,messages_sent,latency_per_operation,overhead_data_structure,overhead_per_message,number_of_reconfigurations,total_reconfiguration_time
-0,2216,64.70400000000001,8160.0,3435137.0,0.0,0.04
-0,2600,66.591,8576.0,4047293.0,0.0,0.07
-0,2496,65.95500000000001,8608.0,3873550.0,0.0,0.048
