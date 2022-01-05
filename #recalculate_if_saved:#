@@ -1,0 +1,5 @@
+    all_results = calculate_values(all_results)
+    else:
+        all_results = load_values()
+
+# all_results65;6003;1c
